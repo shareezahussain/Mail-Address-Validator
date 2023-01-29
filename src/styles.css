@@ -1,0 +1,55 @@
+.App {
+  font-family: sans-serif;
+}
+
+.selected-parcel {
+  border: 1px solid blue;
+}
+
+@media screen and (max-width: 767px) {
+  .flex {
+    flex-direction: column;
+  }
+  .candidate-address-section {
+    width: 100%;
+  }
+}
+@media screen and (min-width: 768px) {
+  .tab-area > li {
+    margin-right: 4rem;
+  }
+  .tabContent div:first-of-type {
+    justify-content: space-between;
+  }
+}
+.MuiButton-text {
+  padding: 0;
+}
+
+.candidate-hidden-address {
+  display: none;
+}
+
+.has-candidate-address .revoke-btn {
+  display: block !important;
+}
+
+:not(.matched-source) .revoke-btn {
+  display: none;
+}
+
+:not(.matched-source) .associate-btn {
+  display: block;
+}
+
+.matched-source .revoke-btn {
+  display: block;
+}
+
+.matched-source .associate-btn {
+  display: none;
+}
+
+.has-candidate-address .validate-msg {
+  display: none;
+}

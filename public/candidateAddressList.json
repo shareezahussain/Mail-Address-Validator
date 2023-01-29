@@ -1,0 +1,37 @@
+{
+  "kind": "addressList",
+  "items": [
+    {
+      "addressId": "AAAAeQ-KjeE",
+      "kind": "address",
+      "createdDate": "2022-09-27T17:52:47.490Z",
+      "modifiedDate": "2022-09-27T21:08:41.424Z",
+      "streetNo": "213",
+      "prefixDirectional": "",
+      "streetName": "Example",
+      "suffixDirectional": "S",
+      "streetType": "Road",
+      "unitNumber": "11A",
+      "careOf": "John Smith",
+      "city": "New York",
+      "state": "New York",
+      "zipCode": "000"
+    },
+    {
+      "addressId": "KLDJ-234k",
+      "kind": "address",
+      "createdDate": "2022-09-27T17:52:47.490Z",
+      "modifiedDate": "2022-09-27T21:08:41.424Z",
+      "streetNo": "312",
+      "prefixDirectional": "N",
+      "streetName": "Sample",
+      "suffixDirectional": "",
+      "streetType": "Street",
+      "unitNumber": "7B",
+      "careOf": "Jane Doe",
+      "city": "New York",
+      "state": "New York",
+      "zipCode": "000"
+    }
+  ]
+}

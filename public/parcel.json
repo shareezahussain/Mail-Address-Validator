@@ -1,0 +1,41 @@
+{
+  "kind": "parcelAddressList",
+  "items": [
+    {
+      "parcelId": "1",
+      "candidateAddressId": "AAAAeQ-KjeE",
+      "candidateAddressText": "213 Example Road New York New York000",
+      "kind": "address",
+      "createdDate": "2022-09-27T17:52:47.490Z",
+      "modifiedDate": "2022-09-27T21:08:41.424Z",
+      "streetNo": "213",
+      "prefixDirectional": "",
+      "streetName": "Example",
+      "suffixDirectional": "S",
+      "streetType": "Road",
+      "unitNumber": "11A",
+      "careOf": "John Smith",
+      "city": "New York",
+      "state": "New York",
+      "zipCode": "000"
+    },
+    {
+      "parcelId": "2",
+      "candidateAddressId": "",
+      "candidateAddressText": "",
+      "kind": "address",
+      "createdDate": "2022-09-27T17:52:47.490Z",
+      "modifiedDate": "2022-09-27T21:08:41.424Z",
+      "streetNo": "677",
+      "prefixDirectional": "N",
+      "streetName": "Sample",
+      "suffixDirectional": "",
+      "streetType": "Street",
+      "unitNumber": "7B",
+      "careOf": "Jane Doe",
+      "city": "New York",
+      "state": "New York",
+      "zipCode": "000"
+    }
+  ]
+}
